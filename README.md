@@ -1,5 +1,7 @@
 # asdf-noir
 
+[![Builds, tests & co](https://github.com/444nt000/asdf-noir/actions/workflows/workflow.yml/badge.svg)](https://github.com/444nt000/asdf-noir/actions/workflows/workflow.yml)
+
 [Noir](https://noir-lang.org) plugin for asdf version manager
 
 ## Prerequirements
